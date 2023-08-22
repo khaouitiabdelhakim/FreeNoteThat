@@ -2,7 +2,7 @@
 
 Write and save notes on websites with ease.
 
-![NoteThat Logo](images/iconbig128.png)
+![NoteThat Logo](images/icon128.png)
 
 ## Description
 
