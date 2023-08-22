@@ -16,7 +16,7 @@ NoteThat is a Chrome extension designed to help you take notes on websites for e
 
 Embrace the full capabilities of **NoteThat** by acquiring it on BuyMeACoffee. By doing so, you not only support ongoing development efforts but also secure the exclusive rights to shape, personalize, and leverage the extension in ways that match your unique needs.
 
-[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=your-coffee-link&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)]([https://www.buymeacoffee.com/kh.abdelhakim/e/161216](https://www.buymeacoffee.com/kh.abdelhakim/e/161299))
+[![Buy Me A Coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=your-coffee-link&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff)](https://www.buymeacoffee.com/kh.abdelhakim/e/161299)
 
 Your interest in **NoteThat** and your dedication to its growth are truly appreciated. Let's work together to redefine how you capture, organize, and engage with online information.
 
